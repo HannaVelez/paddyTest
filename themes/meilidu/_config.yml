@@ -5,7 +5,7 @@ menu:
 
 widgets:
  - greeting
-# - site_links
+ - site_links
 
 rss: /atom.xml
 
