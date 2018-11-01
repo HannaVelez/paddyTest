@@ -15,17 +15,17 @@ In order to get the complex circuitry fitting in the small spaces, surface mount
 #### Why SMT?
 
 Since the wires in wired components need to be pre-formed to fit the relevant hole spacing, and even so they are likely to go wrong in placement, SMT quickly gain its popularity in the industry due to its advantages of efficiency in both design and manufacture phrases. 
-	1. __Save space__: By employing SMT, components occupy less space and the processes needed for connecting to the board. The sizes of SMD components are typically one quarter to one tenth of through-hole devices. The density of components is comparably higher and makes a smaller board or even fewer boards.
-	2. __Save cost__: Through simplified setup and less hole drilling operations, SMT allows automated production and soldering, which improves the manufacturing efficiency and reduces the cost. Many SMD components are less expensive that their leaded counterparts.
-	3. __Better performance__: A single component is able to perform multiple tasks. Under vibration or shaking conditions, SMT components offer a better performance. It may also have short pins or leads of various styles, flat contacts or terminations on the body.
+  1. __Save space__: By employing SMT, components occupy less space and the processes needed for connecting to the board. The sizes of SMD components are typically one quarter to one tenth of through-hole devices. The density of components is comparably higher and makes a smaller board or even fewer boards.
+  2. __Save cost__: Through simplified setup and less hole drilling operations, SMT allows automated production and soldering, which improves the manufacturing efficiency and reduces the cost. Many SMD components are less expensive that their leaded counterparts.
+  3. __Better performance__: A single component is able to perform multiple tasks. Under vibration or shaking conditions, SMT components offer a better performance. It may also have short pins or leads of various styles, flat contacts or terminations on the body.
 
 #### Recommended SMD Manufacturers
 
 At present, the world’s largest manufacturers of SMD are as follows: 
-	1. Japan: Panasonic, FUJI, JUKI, SANYO, YAMAHA, Sony, HITACHI, Tianlong.
-	2. Us: Universal Instruments
-	3. Korea: Samsung
-	4. Germany: SIEMENS, PHILPS.
+  1. Japan: Panasonic, FUJI, JUKI, SANYO, YAMAHA, Sony, HITACHI, Tianlong.
+  2. Us: Universal Instruments
+  3. Korea: Samsung
+  4. Germany: SIEMENS, PHILPS.
 	
 #### Recommended SMT Services Provider
 
