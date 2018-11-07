@@ -1,7 +1,7 @@
 ---
 title: The Materials
 date: 2018-8-24 13:02:00
-category: 3D Resources
+category: 3d resources
 ---
 
 ![](/img/5.jpg)
