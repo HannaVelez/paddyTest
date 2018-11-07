@@ -1,7 +1,7 @@
 ---
 title: Future of 3D Printing
 date: 2018-9-14 08:00:00
-category: 3D in Future
+category: 3d in future
 ---
 
 ![](/img/3.jpg)
