@@ -1,7 +1,7 @@
 ---
 title: Who's using 3D printing 
 date: 2018-8-06 20:31:00
-category: Latest on 3D Printing
+category: latest on 3d printing
 ---
 
 ![](/img/7.jpg)
