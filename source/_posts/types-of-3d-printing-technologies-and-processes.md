@@ -1,7 +1,7 @@
 ---
 title: Types of 3D Printing Technologies and Processes
 date: 2018-8-11 12:10:00
-category: 3D Resources
+category: 3d resources
 ---
 
 ![](/img/6.jpg)
