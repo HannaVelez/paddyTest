@@ -1,7 +1,7 @@
 menu:
- Archive: /archives
- Categories: /categories
- About: /about
+ Archive: /archives/
+ Categories: /categories/
+ About: /about/
 
 widgets:
  - greeting
