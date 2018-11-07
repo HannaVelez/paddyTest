@@ -1,8 +1,12 @@
 ---
 title: Surface Mount Technology in Printed Circuit Boards
 date: 2018-11-01 18:29:00
-category: Trending Tech
+category: trending tech
 ---
+
+<center>
+![](/img/9.jpg)
+</center>
 
 ## What is SMT? Why SMT? And Who should you choose?
 
