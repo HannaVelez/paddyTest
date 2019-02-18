@@ -1,7 +1,7 @@
 ---
 title: HP Improving Sustainability Through 3D Printing
 date: 2018-9-12 19:12:00
-category: latest on 3d printing
+category: trending tech
 ---
 
 ![](/img/8.jpg)
