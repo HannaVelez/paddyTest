@@ -1,7 +1,7 @@
 ---
 title: Who's using 3D printing 
 date: 2018-8-06 20:31:00
-category: latest on 3d printing
+category: trending tech
 ---
 
 ![](/img/7.jpg)
