@@ -1,7 +1,11 @@
 menu:
- Archive: /archives/
- Categories: /categories/
- About: /about/
+ Archive: archives/
+ About: about/
+ 3D Printing: categories/3d-printing-definition/
+ The Future: categories/the-future/
+ Trending Tech: categories/trending-tech/
+ 3D Resources: categories/3d-resources/
+ Recommended 2019: categories/recommended-2019/
 
 widgets:
  - greeting
