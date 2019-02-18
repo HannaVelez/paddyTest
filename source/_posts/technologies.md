@@ -1,7 +1,7 @@
 ---
 title: Technologies
 date: 2018-9-05 09:45:00
-category: 3d in future
+category: the future
 ---
 
 ![](/img/4.jpg)
