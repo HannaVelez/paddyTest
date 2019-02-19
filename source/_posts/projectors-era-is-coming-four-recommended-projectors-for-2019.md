@@ -18,6 +18,8 @@ Comes in a compact, portable form factor, the HU80KA doesn’t require a table o
 
 ![](/img/12.png)
 
+<!-- more -->
+
 #### Best Projector for Home Theater——XGIMI H2
 
 Most people choose to buy projectors in order to build a home theater for a better movie experience, then [a fantastic home projector](https://www.xgimi.com/en/H2-immersive-home-projector.html) is of great importance. 
