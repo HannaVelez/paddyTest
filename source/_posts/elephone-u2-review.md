@@ -4,7 +4,7 @@ date: 2019-06-18 15:28:00
 category: recommended 2019
 ---
 
-Elephone has decided to release its newest smartphone under the name [Elephone U2]https://www.elephone.hk/elephone-U2#/). It features a pop-up module with a dual front camera and a rear triple camera. First, let’s take a look at the official specifications: 
+Elephone has decided to release its newest smartphone under the name [Elephone U2](https://www.elephone.hk/elephone-U2#/). It features a pop-up module with a dual front camera and a rear triple camera. First, let’s take a look at the official specifications: 
 
 CPU Processor：MTK P70
 Screen Size：6.26-inch Incell Pop-up Camera phone
