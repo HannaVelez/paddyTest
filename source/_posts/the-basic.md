@@ -1,7 +1,7 @@
 ---
 title: The Basic of 3D Printing
 date: 2018-8-30 07:00:00
-category: 3d printing definition
+category: 3d printing
 ---
 
 ![](/img/1.jpg)
